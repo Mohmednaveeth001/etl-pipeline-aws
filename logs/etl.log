@@ -1,0 +1,48 @@
+2025-02-27 20:58:01,224 - INFO - ETL Pipeline Started
+2025-02-27 20:58:01,225 - INFO - Starting data extraction...
+2025-02-27 20:58:01,244 - INFO - Extracted data from source1.csv.
+2025-02-27 20:58:01,247 - INFO - Extracted data from source1.json.
+2025-02-27 20:58:01,250 - INFO - Extracted data from source1.xml.
+2025-02-27 20:58:01,259 - INFO - Extracted data from source2.csv.
+2025-02-27 20:58:01,262 - INFO - Extracted data from source2.json.
+2025-02-27 20:58:01,266 - INFO - Extracted data from source2.xml.
+2025-02-27 20:58:01,272 - INFO - Extracted data from source3.csv.
+2025-02-27 20:58:01,273 - INFO - Extracted data from source3.json.
+2025-02-27 20:58:01,276 - INFO - Extracted data from source3.xml.
+2025-02-27 20:58:01,276 - INFO - Data extraction completed.
+2025-02-27 20:58:01,280 - INFO - Starting data transformation...
+2025-02-27 20:58:01,295 - INFO - Data transformation completed.
+2025-02-27 20:58:03,611 - INFO - Uploaded transformed_data.csv to S3.
+2025-02-27 20:58:24,877 - INFO - ETL Pipeline Started
+2025-02-27 20:58:24,878 - INFO - Starting data extraction...
+2025-02-27 20:58:24,883 - INFO - Extracted data from source1.csv.
+2025-02-27 20:58:24,884 - INFO - Extracted data from source1.json.
+2025-02-27 20:58:24,885 - INFO - Extracted data from source1.xml.
+2025-02-27 20:58:24,887 - INFO - Extracted data from source2.csv.
+2025-02-27 20:58:24,887 - INFO - Extracted data from source2.json.
+2025-02-27 20:58:24,888 - INFO - Extracted data from source2.xml.
+2025-02-27 20:58:24,889 - INFO - Extracted data from source3.csv.
+2025-02-27 20:58:24,889 - INFO - Extracted data from source3.json.
+2025-02-27 20:58:24,890 - INFO - Extracted data from source3.xml.
+2025-02-27 20:58:24,890 - INFO - Data extraction completed.
+2025-02-27 20:58:24,891 - INFO - Starting data transformation...
+2025-02-27 20:58:24,893 - INFO - Data transformation completed.
+2025-02-27 20:58:27,533 - INFO - Uploaded transformed_data.csv to S3.
+2025-02-27 20:59:30,590 - INFO - ETL Pipeline Started
+2025-02-27 20:59:30,590 - INFO - Starting data extraction...
+2025-02-27 20:59:30,592 - INFO - Extracted data from source1.csv.
+2025-02-27 20:59:30,593 - INFO - Extracted data from source1.json.
+2025-02-27 20:59:30,593 - INFO - Extracted data from source1.xml.
+2025-02-27 20:59:30,594 - INFO - Extracted data from source2.csv.
+2025-02-27 20:59:30,595 - INFO - Extracted data from source2.json.
+2025-02-27 20:59:30,595 - INFO - Extracted data from source2.xml.
+2025-02-27 20:59:30,596 - INFO - Extracted data from source3.csv.
+2025-02-27 20:59:30,597 - INFO - Extracted data from source3.json.
+2025-02-27 20:59:30,597 - INFO - Extracted data from source3.xml.
+2025-02-27 20:59:30,597 - INFO - Data extraction completed.
+2025-02-27 20:59:30,598 - INFO - Starting data transformation...
+2025-02-27 20:59:30,599 - INFO - Data transformation completed.
+2025-02-27 20:59:32,796 - INFO - Uploaded transformed_data.csv to S3.
+2025-02-27 20:59:36,546 - INFO - Checked/Created MySQL table: transformed_table.
+2025-02-27 20:59:38,129 - INFO - Data successfully loaded into MySQL RDS table: transformed_table.
+2025-02-27 20:59:38,129 - INFO - ETL Pipeline Completed
